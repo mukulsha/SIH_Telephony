@@ -4,3 +4,6 @@ DEPENDENCIES:
   
 ISSUES:
   color selection pannel appears twice
+  
+TO ACCESS ITEM IN MAIN ACTIVITY:
+  ColorPickerListItem itemName = colorList.get(position);
